@@ -25,7 +25,7 @@ npm run dev
 
 4. Open your browser and visit:
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ### Tech Stack
@@ -63,7 +63,7 @@ node index.js
 
 4. The server will start at:
 ```
-http://localhost:5000
+http://localhost:8000
 ```
 
 ### Tech Stack
